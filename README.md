@@ -1,16 +1,13 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🥇
 
-<!--
-**renatohub46/renatohub46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Renato Simioni
 
-Here are some ideas to get you started:
+-sou estudante da alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-desenvolvedor de sites 
+
+contatos direto:
+
+@046_renato
+
+![image](https://github.com/renatohub46/renatohub46/assets/130699641/d6acc5f7-b7ff-4d8c-99fa-a558723773f7)
