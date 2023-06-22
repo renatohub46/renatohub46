@@ -1,4 +1,4 @@
-### boas vindas ao meu perfil
+### boas vindas ao meu perfil 🥇
 
 -Meu nome é Renato Simioni
 
@@ -10,4 +10,5 @@
 
 contatos: @046_renato
 
-![image](https://github.com/renatohub46/renatohub46/assets/130699641/bc9f452d-6911-47f6-962d-2e41edfc2dec)
+![dance-party](https://github.com/renatohub46/renatohub46/assets/130699641/e51a26f6-26b5-434e-85fd-2ad743160a25)
+
